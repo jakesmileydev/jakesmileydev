@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jakesmileydev
- 
-Hi I'm Jake,
+👋 Hi, I’m @jakesmileydev
 
 I'm an aspiring web developer, currently working with HTML, CSS, and JavaScript.
 
