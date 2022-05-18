@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/jakesmileydev/jakesmileydev/blob/main/wave.gif?raw=true" width="30" height="30" />, I'm Jake Smiley</h1>
-<h3 align="center">A web developer with a mild obsession for building pixel perfect products</h3>
+<h3 align="center">A web developer with a mild obsession for building pixel perfect websites and applications</h3>
 <div>
 
 
