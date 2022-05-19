@@ -1,12 +1,11 @@
 ### Hi <img src="https://github.com/jakesmileydev/jakesmileydev/blob/main/wave.gif?raw=true" width="30" height="30" />, I'm Jake Smiley
-A web developer with a mild obsession for building pixel perfect websites and applications
-
+A web developer with a passion for creating pixel perfect websites and applications. I love learning new things and slingin' code!
 
 ### 📫 How to reach me:
 
 - Website: [jakesmiley.com](https://www.jakesmiley.com)
 - Email: [hello@jakesmiley.com](mailto:hello@jakesmiley.com)
-
+- Linkedin: [linkedin.com/in/jakesmileydev](https://www.linkedin.com/in/jakesmileydev/)
 
 ### 🌱 My latest projects
 
