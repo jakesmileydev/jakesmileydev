@@ -7,7 +7,7 @@ A web developer with a passion for creating pixel perfect websites, learning new
 - Email: [hello@jakesmiley.com](mailto:hello@jakesmiley.com)
 - Linkedin: [linkedin.com/in/jakesmileydev](https://www.linkedin.com/in/jakesmileydev/)
 
-### 🌱 My latest projects
+### 🌱 My latest projects:
 
 - [Movie Search App](https://github.com/jakesmileydev/moviesearchapp) - Search movies, watch trailers, and share with friends!
 - [Rad Bikes](https://github.com/jakesmileydev/radBikes) - Front End for an e-commerce bike shop.
