@@ -1,5 +1,5 @@
 ### Hi <img src="https://github.com/jakesmileydev/jakesmileydev/blob/main/wave.gif?raw=true" width="30" height="30" />, I'm Jake Smiley.
-A web developer with a passion for creating pixel perfect websites and applications. I love learning new things and slingin' code!
+A web developer with a passion for creating pixel perfect websites, learning new things, and collaborating on projects. Hit me up if you wanna sling some code or just swap dad jokes!
 
 ### 📫 How to reach me:
 
@@ -9,7 +9,8 @@ A web developer with a passion for creating pixel perfect websites and applicati
 
 ### 🌱 My latest projects
 
-- [Movie Search App](https://github.com/jakesmileydev/moviesearchapp) - Search movies and watch trailers with the OMDb and YouTube APIs
+- [Movie Search App](https://github.com/jakesmileydev/moviesearchapp) - Search movies, watch trailers, and share with friends!
+- [Rad Bikes](https://github.com/jakesmileydev/radBikes) - Front End for an e-commerce bike shop.
 
 
 
