@@ -3,7 +3,7 @@ A web developer with a passion for creating pixel perfect websites, learning new
 
 ### 📫 How to reach me:
 
-- Website: [jakesmiley.com](https://www.jakesmiley.com)
+- Website: jakesmiley.com --<i>In Progress</i>
 - Email: [hello@jakesmiley.com](mailto:hello@jakesmiley.com)
 - Linkedin: [linkedin.com/in/jakesmileydev](https://www.linkedin.com/in/jakesmileydev/)
 
