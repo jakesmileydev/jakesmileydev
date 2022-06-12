@@ -1,5 +1,5 @@
 ### Hi <img src="https://github.com/jakesmileydev/jakesmileydev/blob/main/wave.gif?raw=true" width="30" height="30" />, I'm Jake Smiley.
-A web developer with a passion for creating pixel perfect websites and applications. Hit me up if you wanna get together and sling some code, or just swap dad jokes!
+A web developer with a passion for creating pixel perfect websites and applications.<br> Hit me up if you want to hire me, build something together, deliver pedantic criticism of my code, or just swap dad jokes!
 
 ### 📫 How to reach me:
 
