@@ -8,6 +8,7 @@ A web developer with a passion for creating pixel perfect websites and applicati
 
 ### 🌱 My latest projects:
 
+- [CRA Immigration](https://github.com/jakesmileydev/cra-immigration) - Website and Blog built for a law firm.
 - [Movie Search App](https://github.com/jakesmileydev/moviesearchapp) - Search movies, watch trailers, and share with friends!
 - [Rad Bikes](https://github.com/jakesmileydev/radBikes) - Front End for an e-commerce bike shop.
 
