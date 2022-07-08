@@ -1,8 +1,10 @@
 ### Hi <img src="https://github.com/jakesmileydev/jakesmileydev/blob/main/wave.gif?raw=true" width="30" height="30" />, I'm Jake Smiley.
 A web developer with a passion for creating pixel perfect websites and applications.<br> Hit me up if you want to hire me, build something together, deliver pedantic criticism of my code, or just swap dad jokes!
+<p>These are some technologies I work with:</p>
+<div><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DBFB" alt="react logo" title="react" height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></div>
+<p></p>
 
 ### 📫 How to reach me:
-
 - Email: [hello@jakesmiley.com](mailto:hello@jakesmiley.com)
 - Linkedin: [linkedin.com/in/jakesmileydev](https://www.linkedin.com/in/jakesmileydev/)
 
