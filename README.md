@@ -1,8 +1,7 @@
 ### Hi <img src="https://github.com/jakesmileydev/jakesmileydev/blob/main/wave.gif?raw=true" width="30" height="30" />, I'm Jake Smiley.
 <p>Hello!</p>
 <p>I'm Jake, a web developer from Camano Island, Washington. I love
-              creating web applications that people can enjoy and use.</p>
-<p>My goal is to create products that clients are proud of, and to architect clean, readable code.</p>
+              creating web applications that people can enjoy and use. My goal is to create products that clients are proud of, and to architect clean, readable code.</p>
 <p>Here are a few technologies I've been working with lately:</p>
 <div><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DBFB" alt="react logo" title="react" height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=E74B27" alt="CSS3 logo" title="CSS3" height="25" /></div>
 
