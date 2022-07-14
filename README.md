@@ -15,6 +15,7 @@
 
 ### 🌱 My latest projects:
 
+- [My portfolio website](https://github.com/jakesmileydev/smiley-portfolio) - My personal portfolio website in React.
 - [CRA Immigration](https://github.com/jakesmileydev/cra-immigration) - Website and Blog built for a law firm.
 - [Movie Search App](https://github.com/jakesmileydev/moviesearchapp) - Search movies, watch trailers, and share with friends!
 - [Rad Bikes](https://github.com/jakesmileydev/radBikes) - Front End for an e-commerce bike shop.
