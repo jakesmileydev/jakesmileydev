@@ -9,6 +9,7 @@
 <p></p>
 
 ### 📫 How to reach me:
+- Website: [jakesmiley.com](https://www.jakesmiley.com)
 - Email: [hello@jakesmiley.com](mailto:hello@jakesmiley.com)
 - Linkedin: [linkedin.com/in/jakesmileydev](https://www.linkedin.com/in/jakesmileydev/)
 
